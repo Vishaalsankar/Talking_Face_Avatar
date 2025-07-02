@@ -1,12 +1,12 @@
 
-# 🎭 Avatar-Based Talking Face Generation  
+#  Avatar-Based Talking Face Generation  
 ### Audio-Driven Emotional Avatars with Landmark and Head Motion Modeling
 
 This repository presents a deep learning system that generates **emotionally expressive, speech-synchronized avatar videos** from a static face image and a speech audio clip. The system preserves identity, extracts emotions directly from audio, and outputs anime-style talking avatars using landmark motion and head orientation cues.
 
 ---
 
-## 📌 Features
+##  Features
 
 - 🖼️ Converts real human faces to anime-style avatars using TCN and GAN  
 - 🔊 Extracts emotion features directly from raw speech audio  
